@@ -1,4 +1,3 @@
 *.mmdb
-*.mmdb.gz
 __pycache__/
 *.pyc
